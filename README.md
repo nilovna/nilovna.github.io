@@ -1,9 +1,9 @@
-## Full-Stack Developer
+## Who Am I?
 
 - 👩‍💻 Full-Stack Developer at [Unito](https://unito.io)
-- 📍 Montreal, Canada
 - ❤️ Python and Javascript
-
+- 🤜🏼 Karateka
+- 📍 Montreal, Canada
 -------
 
 ✉️ contact[at]nilovna.com
