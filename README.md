@@ -4,6 +4,7 @@
 - ❤️ Python and Javascript
 - 🤜🏼 Karateka
 - 📍 Montreal, Canada
+
 -------
 
 ✉️ contact[at]nilovna.com
