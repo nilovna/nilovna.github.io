@@ -1,9 +1,7 @@
 ## Full-Stack Developer
 
 👩‍💻 Full-Stack Developer at [Unito](https://unito.io)
-
-📍 Montreal, Canada.
-
+📍 Montreal, Canada
 ❤️ Python and Javascript
 
 -------
